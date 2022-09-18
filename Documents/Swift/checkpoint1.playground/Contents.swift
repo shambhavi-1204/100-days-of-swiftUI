@@ -1,7 +1,7 @@
-import Cocoa
-
-// MARK: - CHECKPOINT 1 - SIMPLE DATA TYPES
+// CHECKPOINT 1 - SIMPLE DATA TYPES
 // Making a simple temperature converter from celsius to farhenheit
+
+import Cocoa
 
 let celsius: Double = 32.0
 let fahrenheit: Double
